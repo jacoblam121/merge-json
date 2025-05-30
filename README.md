@@ -5,7 +5,7 @@ Made for merging spotify json data
 
 https://www.youtube.com/watch?v=Bb_47VRS5Lg
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/watch?v=Bb_47VRS5Lg" title="Merge Json Video">
     <img src="https://img.youtube.com/vi/Bb_47VRS5Lg/hqdefault.jpg" alt="Merge Json Video" />
   </a>
