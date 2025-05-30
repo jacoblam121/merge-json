@@ -1,0 +1,6 @@
+# List of Spotify JSON files to merge
+# Should look like this:
+
+# Streaming_History_Audio_2017-2022_0.json
+# Streaming_History_Audio_2022_1.json
+# Streaming_History_Audio_2022-2023_2.json
