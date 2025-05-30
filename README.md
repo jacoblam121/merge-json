@@ -3,7 +3,7 @@ Made for merging spotify json data
 
 ## How to Use
 
-1.  **Clone the Repository and Add Files**
+1.  **Clone the Repository (or download the files) and Add Files to Merge**
     *    Add json files you wish to combine (they must all be in the same directory as merge_json.py)
     *    Note: feel free to ignore any of the files in `jacoblam121's files`, that was just me using the script
 
