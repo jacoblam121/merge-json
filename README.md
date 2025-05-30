@@ -1,7 +1,15 @@
 # merge-json
 Made for merging spotify json data
 
-## How to Use
+## How to Use / Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Bb_47VRS5Lg" title="Merge Json Video">
+    <img src="https://img.youtube.com/vi/Bb_47VRS5Lg/hqdefault.jpg" alt="Merge Json Video" />
+  </a>
+</p>
+
+## How to Use (description)
 
 1.  **Clone the Repository (or download the files) and Add Files to Merge**
     *    Add json files you wish to combine (they must all be in the same directory as merge_json.py)
