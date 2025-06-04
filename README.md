@@ -1,3 +1,7 @@
+## OLD README
+# now takes in a .zip file and you just have to run the script
+# will update instructions later
+
 # merge-json
 Made for merging spotify json data
 
